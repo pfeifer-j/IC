@@ -2,9 +2,11 @@
 __pycache__/
 *.py[cod]
 *$py.class
-IC\Prácticas1\data
-Prácticas1\data
-data
+
+
+IC/Prácticas1/data
+Prácticas1/data
+data/
 
 # C extensions
 *.so
